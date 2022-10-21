@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89de21a9-48c7-4ce0-85bb-d7ed74596304" name="Changes" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ContainsDuplicates2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SLL/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SLL/SwapNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SLL/SwapNodesInGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SLL/SwapNodesInPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/StartAndEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/StartAndEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SLL/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SLL/RemoveDuplicates.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/DLL/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DLL/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/StartAndEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/StartAndEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/DetectLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SLL/DetectLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/KeepUniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SLL/KeepUniques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SLL/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SLL/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SLL/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/SumNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SLL/SumNumbers.java" afterDir="false" />
+>>>>>>> 0bde7273c20e3e5b2b43fcce5f6a483fc81e3921
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E1QabyfWtRqBAf2BJ1htioB01k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+<<<<<<< HEAD
+    &quot;last_opened_file_path&quot;: &quot;D:/PERSONAL/DSA/dsa-java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SwapNodesInGroups">
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ContainsDuplicate" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+=======
+    &quot;last_opened_file_path&quot;: &quot;D:/PERSONAL/DSA/java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.StartAndEnd">
+    <configuration name="Ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.Ceiling" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+>>>>>>> 0bde7273c20e3e5b2b43fcce5f6a483fc81e3921
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="ContainsDuplicates2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ContainsDuplicates2" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+=======
+    <configuration name="OrderAgnostic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.OrderAgnostic" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+>>>>>>> 0bde7273c20e3e5b2b43fcce5f6a483fc81e3921
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="SwapNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SLL.SwapNodes" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SLL.*" />
+=======
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.Search" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+>>>>>>> 0bde7273c20e3e5b2b43fcce5f6a483fc81e3921
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="SwapNodesInGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SLL.SwapNodesInGroups" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SLL.*" />
+=======
+    <configuration name="SmallestLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SmallestLetter" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+>>>>>>> 0bde7273c20e3e5b2b43fcce5f6a483fc81e3921
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="SwapNodesInPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SLL.SwapNodesInPairs" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SLL.*" />
+=======
+    <configuration name="StartAndEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.StartAndEnd" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+>>>>>>> 0bde7273c20e3e5b2b43fcce5f6a483fc81e3921
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+<<<<<<< HEAD
+        <item itemvalue="Application.SwapNodesInGroups" />
+        <item itemvalue="Application.SwapNodes" />
+        <item itemvalue="Application.SwapNodesInPairs" />
+        <item itemvalue="Application.ContainsDuplicate" />
+        <item itemvalue="Application.ContainsDuplicates2" />
+=======
+        <item itemvalue="Application.StartAndEnd" />
+        <item itemvalue="Application.SmallestLetter" />
+        <item itemvalue="Application.Ceiling" />
+        <item itemvalue="Application.OrderAgnostic" />
+        <item itemvalue="Application.Search" />
+>>>>>>> 0bde7273c20e3e5b2b43fcce5f6a483fc81e3921
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89de21a9-48c7-4ce0-85bb-d7ed74596304" name="Changes" comment="" />
+      <created>1661760679023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661760679023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
