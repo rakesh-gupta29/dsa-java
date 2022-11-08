@@ -1,6 +1,6 @@
 package DLL;
 
-public class List {
+public class List<I extends Number> {
      Node head = null;
      public void prepend ( int  value ) {
          Node node = new Node(value);
