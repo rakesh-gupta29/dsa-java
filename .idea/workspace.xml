@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89de21a9-48c7-4ce0-85bb-d7ed74596304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ThreeSumCloset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/GreatStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindMinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MoveOddToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/QuickSortWithFirstAsPivot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/QuickSortWithLastElemAsPivot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/Fibbonaccci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/TriFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/RemoveAdjacentDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DLL/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLL/List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +49,9 @@
         &quot;last_opened_file_path&quot;: &quot;D:/PERSONAL/DSA/java&quot;
         }
         }</component>
-  <component name="RunManager" selected="Application.GreatStrings">
-    <configuration name="GetMaxNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.GetMaxNum" />
+  <component name="RunManager" selected="Application.SortColors">
+    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.KthLargest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -56,34 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.GreatStrings" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Numbers.IsPalindrome" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Numbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ThreeSum" />
+    <configuration name="MoveOddToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MoveOddToEnd" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +76,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSumCloset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ThreeSumCloset" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.QuickSort" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSortWithFirstAsPivot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.QuickSortWithFirstAsPivot" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SortColors" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GreatStrings" />
-        <item itemvalue="Application.ThreeSumCloset" />
-        <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.IsPalindrome" />
-        <item itemvalue="Application.GetMaxNum" />
+        <item itemvalue="Application.SortColors" />
+        <item itemvalue="Application.MoveOddToEnd" />
+        <item itemvalue="Application.QuickSortWithFirstAsPivot" />
+        <item itemvalue="Application.KthLargest" />
+        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -139,5 +146,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/QuickSortWithFirstAsPivot.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
