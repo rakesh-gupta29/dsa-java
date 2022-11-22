@@ -2,19 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89de21a9-48c7-4ce0-85bb-d7ed74596304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FindMinAndMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MoveOddToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/QuickSortWithFirstAsPivot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/QuickSortWithLastElemAsPivot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/Fibbonaccci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/TriFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/RemoveAdjacentDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToButStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ComplementNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/CountPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/CountTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindDiffOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindIntersection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/IntersectionOFArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxProductOfTwoElems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MinInARotatedArary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MoveNegativeToStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/NumJewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/PerfectSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/PhoneLetterCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RoboReturnToOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SetMismatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SingleDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SingleElement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/StrictlyIncreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/StringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SumIsPowerOfYou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/UglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/UnequalTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/UniqueOccurances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/PowerOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/PowerOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/BackspaceStringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/FindCommonCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/FindDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/FirstUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ValidAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/KthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SortColors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +82,9 @@
         &quot;last_opened_file_path&quot;: &quot;D:/PERSONAL/DSA/java&quot;
         }
         }</component>
-  <component name="RunManager" selected="Application.SortColors">
-    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.KthLargest" />
+  <component name="RunManager" selected="Application.CountTriplets">
+    <configuration name="CountTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.CountTriplets" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveOddToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MoveOddToEnd" />
+    <configuration name="PerfectSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.PerfectSquares" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +109,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.QuickSort" />
+    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numbers.PowerOfTwo" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumIsPowerOfYou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SumIsPowerOfYou" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -89,21 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortWithFirstAsPivot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.QuickSortWithFirstAsPivot" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SortColors" />
+    <configuration name="UnequalTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.UnequalTriplets" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortColors" />
-        <item itemvalue="Application.MoveOddToEnd" />
-        <item itemvalue="Application.QuickSortWithFirstAsPivot" />
-        <item itemvalue="Application.KthLargest" />
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.CountTriplets" />
+        <item itemvalue="Application.UnequalTriplets" />
+        <item itemvalue="Application.PerfectSquares" />
+        <item itemvalue="Application.SumIsPowerOfYou" />
+        <item itemvalue="Application.PowerOfTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +187,16 @@
           <url>file://$PROJECT_DIR$/src/Arrays/QuickSortWithFirstAsPivot.java</url>
           <line>19</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/SingleNumber.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/SingleElement2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
