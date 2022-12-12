@@ -7,11 +7,11 @@ public class QuickSort {
         // https://leetcode.com/problems/sort-an-array/
 
         int[] arr = {3,4,5,2,1};
-        quickSort(arr, 0, arr.length - 1);
+        quickSort(arr, 0, arr.length - 1, 2 );
         System.out.println(Arrays.toString(arr));
     }
 
-    public static void quickSort(int[] arr, int start, int end) {
+    public static void quickSort(int[] arr, int start, int end, int k) {
 
         if (start >= end) return; // input is empty or single element array
         // since we have t use start and end , let's create copies
@@ -32,9 +32,11 @@ public class QuickSort {
             }
         }
         // pivot is at right position
-        quickSort(arr, start, high );
+        System.out.println(high + 1 );
 
-        quickSort( arr, low , end );
+        quickSort(arr, start, high , 0  );
+
+        quickSort( arr, low , end  , 0 );
     }
 
     public static void swap(int[] arr, int first, int second) {

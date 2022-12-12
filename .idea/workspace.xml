@@ -2,52 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89de21a9-48c7-4ce0-85bb-d7ed74596304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToButStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ComplementNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/CountPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/CountTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/CyclicSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FindDiffOfArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FindDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FindIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FindIntersection2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FindMissing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FirstMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/IntersectionOFArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxProductOfTwoElems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MergeSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MinInARotatedArary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MoveNegativeToStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/NumJewelsAndStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/PerfectSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/PhoneLetterCombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RoboReturnToOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SetMismatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SingleDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SingleElement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/StrictlyIncreasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SumIsPowerOfYou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/UnequalTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/UniqueOccurances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/PowerOfFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/PowerOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/BackspaceStringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/FindCommonCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/FindDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/FirstUniqueCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/IntersectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/RootToLeafSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SLL/RotateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SLL/SortOddAndEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/AlikeStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/CharByFreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ValidParenthses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/KthLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SortColors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +52,22 @@
         &quot;last_opened_file_path&quot;: &quot;D:/PERSONAL/DSA/java&quot;
         }
         }</component>
-  <component name="RunManager" selected="Application.CountTriplets">
-    <configuration name="CountTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.CountTriplets" />
+  <component name="RunManager" selected="Application.ValidPalindrome">
+    <configuration name="CharByFreq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.CharByFreq" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.FizzBuzz" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.PerfectSquares" />
+    <configuration name="SortOddAndEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SLL.SortOddAndEven" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="SLL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Numbers.PowerOfTwo" />
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ValidPalindrome" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Numbers.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,25 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumIsPowerOfYou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SumIsPowerOfYou" />
+    <configuration name="ValidParenthses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ValidParenthses" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnequalTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.UnequalTriplets" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountTriplets" />
-        <item itemvalue="Application.UnequalTriplets" />
-        <item itemvalue="Application.PerfectSquares" />
-        <item itemvalue="Application.SumIsPowerOfYou" />
-        <item itemvalue="Application.PowerOfTwo" />
+        <item itemvalue="Application.ValidPalindrome" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.ValidParenthses" />
+        <item itemvalue="Application.SortOddAndEven" />
+        <item itemvalue="Application.CharByFreq" />
       </list>
     </recent_temporary>
   </component>
