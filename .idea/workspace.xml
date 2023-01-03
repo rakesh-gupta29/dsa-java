@@ -2,22 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89de21a9-48c7-4ce0-85bb-d7ed74596304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/IntersectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BST/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BST/RootToLeafSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BST/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SLL/RotateList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SLL/SortOddAndEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/AlikeStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/CharByFreq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ValidParenthses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/AddDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/AllSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/CombinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/DistinctPrimeFactorsOfProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/LengthOfLastWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MinFallingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MinSumOfIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RomanToDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SLL/IntersectionOfNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ImplementQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/AddStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/CapitalUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/DeleteColumnsToMakeSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/FindNeedleInHaystack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/MultiplyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/NumberOfSegments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Repeatedpattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ReverseWordsInSrtring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/KthLargest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +55,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
-        &quot;keyToString&quot;: {
-        &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-        &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-        &quot;last_opened_file_path&quot;: &quot;D:/PERSONAL/DSA/java&quot;
-        }
-        }</component>
-  <component name="RunManager" selected="Application.ValidPalindrome">
-    <configuration name="CharByFreq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.CharByFreq" />
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PERSONAL/DSA/java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.AddStrings">
+    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.AddStrings" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -66,34 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.FizzBuzz" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortOddAndEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SLL.SortOddAndEven" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SLL.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ValidPalindrome" />
+    <configuration name="FindNeedleInHaystack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.FindNeedleInHaystack" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +89,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ValidParenthses" />
+    <configuration name="NumberOfSegments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.NumberOfSegments" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Repeatedpattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Repeatedpattern" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWordsInSrtring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ReverseWordsInSrtring" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidPalindrome" />
-        <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.ValidParenthses" />
-        <item itemvalue="Application.SortOddAndEven" />
-        <item itemvalue="Application.CharByFreq" />
+        <item itemvalue="Application.AddStrings" />
+        <item itemvalue="Application.FindNeedleInHaystack" />
+        <item itemvalue="Application.NumberOfSegments" />
+        <item itemvalue="Application.Repeatedpattern" />
+        <item itemvalue="Application.ReverseWordsInSrtring" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +178,20 @@
           <line>8</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/JumpGame.java</url>
+          <line>9</line>
+          <properties class="Arrays.JumpGame" method="canJump">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

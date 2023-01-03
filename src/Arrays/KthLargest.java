@@ -1,41 +1,31 @@
 package Arrays;
 
+import java.util.Arrays;
+
 public class KthLargest {
     public static void main(String[] args) {
-        // incomplete question
-        // https://leetcode.com/problems/kth-largest-element-in-an-array/
-        int [] arr = {3,2,1,5,4,6};
-        int k = 2  ;
-        System.out.println(quickSelect(arr, k ) );
+        int[] arr = {5, 4, 1, 2, 3};
+        sort(arr, 0, arr.length - 1, 2);
+        System.out.println(Arrays.toString(arr));
     }
-    public  static  int quickSelect ( int [] arr, int k ) {
-       int low = 0 ,  high = arr.length -1 ;
-       int pivot = arr [ low + ( high - low ) /2 ] ;
-       // put the pivot at right position
-        while ( low <= high) {
-            while (arr[ low] < pivot  ) {
 
-                low++;
+    static void sort(int[] arr, int low, int high, int k) {
+        if (low == high) return;
+        int start = low, end = high, mid = start + (end - start) / 2, pivot = arr[mid];
+        while (start <= end) {
+            while (arr[start] < pivot) start++;
+            while (arr[end] > pivot) end--;
+            if (start <= end) {
+                swap(arr, start, end); start++ ; end--;
             }
-            while ( arr[ high ] > pivot ) {
-                high-- ;
-            }
-
-            if ( low <= high) {
-                swap ( arr , low , high) ;
-                low++;
-                high--;
-            }
-
         }
-
-        System.out.println("correct index of pivot is " + high );
-        return 0 ;
-    }
-    public static void swap(int[] arr, int first, int second) {
-        int temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
+        sort(arr, start, high, k);
+        sort(arr, low, end, k);
     }
 
+    private static void swap(int[] nums, int x, int y) {
+        int temp = nums[x];
+        nums[x] = nums[y];
+        nums[y] = temp;
+    }
 }
