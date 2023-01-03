@@ -1,3 +1,1 @@
-## DSA Practice using JAVA langauge.
-
-https://leetcode.com/problems/single-number-ii/
+## DSA Practice using JAVA language.
